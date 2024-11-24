@@ -1,2 +1,8 @@
-# wakati
-read time analysis api bulit using hono
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
